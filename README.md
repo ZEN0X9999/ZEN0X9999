@@ -1,4 +1,3 @@
-sudo pacman -S sl
 
 <!---
 ZEN0X9999/ZEN0X9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
